@@ -135,7 +135,8 @@ When running the slack bot if a person types a sensitive or foul language in the
 For list of all foul/senesitive keywords please refer to the ```bad_list.txt``` file in the ```python-rtmbot-master``` directory.
 These words comprehenisve list of common sensitive words compiled by Google.
 
-View the Demo Below 
+## Video Demo
+Click on the thumbnail below
 
 [![SLACK_SENTIMENT](https://img.youtube.com/vi/VCX8zWlBynQ/0.jpg)](https://www.youtube.com/watch?v=VCX8zWlBynQ)
 
